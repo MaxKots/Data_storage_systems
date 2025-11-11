@@ -1,5 +1,6 @@
 # test_01
 
+
 ![Тест_01 вопрос 1](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/1_1.jpg)
 ![Тест_01 вопрос 2](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/1_2.jpg)
 ![Тест_01 вопрос 3](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/1_3.jpg)
@@ -11,7 +12,9 @@
 ![Тест_01 вопрос 9](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/1_9.jpg)
 ![Тест_01 вопрос 10](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/1_10.jpg)
 
+
 # test_02
+
 
 ![Тест_02 вопрос 1](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/2_1.jpg)
 ![Тест_02 вопрос 2](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/2_2.jpg)
@@ -23,3 +26,13 @@
 ![Тест_02 вопрос 8](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/2_8.jpg)
 ![Тест_02 вопрос 9](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/2_9.jpg)
 ![Тест_02 вопрос 10](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/2_10.jpg)
+
+
+# test_03
+
+
+![Тест_03 вопрос 1](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/3_1.jpg)
+![Тест_03 вопрос 2](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/3_2.jpg)
+![Тест_03 вопрос 3](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/3_3.jpg)
+![Тест_03 вопрос 4](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/3_4.jpg)
+![Тест_03 вопрос 5](https://github.com/MaxKots/Data_storage_systems/blob/main/.assets/3_5.jpg)
